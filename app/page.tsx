@@ -42,3 +42,6 @@ export default async function LeaguesPage() {
     </main>
   );
 }
+
+
+// API_FOOTBALL_KEY="eb76dad84db90715b72307ec2830a2f1"
